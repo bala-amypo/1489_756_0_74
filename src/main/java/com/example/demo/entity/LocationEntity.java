@@ -16,7 +16,7 @@ public class LocationEntity {
     private Double latitude;
     private Double longitude;
 
-    // ✅ REQUIRED by JPA
+  
     public LocationEntity() {
     }
 
