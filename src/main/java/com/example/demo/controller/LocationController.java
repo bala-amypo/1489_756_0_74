@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.entity.LocationEntity;
 import com.example.demo.service.LocationService;
-
 @RestController
 public class LocationController {
     @Autowired
